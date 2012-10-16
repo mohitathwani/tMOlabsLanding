@@ -5,7 +5,17 @@ body {
 	background-size: 100%;
 }
 
-#countdown {
-	position: relative;
-	
+#logo {
+	margin-top: -12%;
+}
+
+#message {
+	color: #666666;
+	font-size: 23px;
+	margin: 0 auto;
+	padding: 4px;
+	text-align: center;
+	text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
+	//width: 400px;
+	font-weight: bolder;
 }
